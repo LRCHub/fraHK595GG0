@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "distance          FARMHOUSE",
+  "base_artist": "Farmhouse",
+  "createdAt": "2026-03-25T07:53:14.724551Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Velvet Red - Never Will: Live From A Distance",
+      "artist": "Ashley McBryde",
+      "has_synced": true,
+      "path": "select/01_Velvet_Red_-_Never_Will__Live_From_A_Distance_Ashley_McBryde.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Velvet Red (Never Will: Live From A Distance)",
+      "artist": "Ashley McBryde",
+      "has_synced": true,
+      "path": "select/02_Velvet_Red_(Never_Will__Live_From_A_Distance)_Ashley_McBryde.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "From A Distance",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/03_From_A_Distance_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Go The Distance",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/04_Go_The_Distance_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Go the Distance (Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/05_Go_the_Distance_(Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Going the Distance",
+      "artist": "Chad Brock",
+      "has_synced": true,
+      "path": "select/06_Going_the_Distance_Chad_Brock.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Going the Distance (Album Version)",
+      "artist": "Chad Brock",
+      "has_synced": true,
+      "path": "select/07_Going_the_Distance_(Album_Version)_Chad_Brock.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Safety of Distance",
+      "artist": "Lior",
+      "has_synced": true,
+      "path": "select/08_Safety_of_Distance_Lior.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Distance",
+      "artist": "Miranda Sex Garden",
+      "has_synced": false,
+      "path": "select/09_Distance_Miranda_Sex_Garden.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Long Distance Call",
+      "artist": "Muddy Waters",
+      "has_synced": true,
+      "path": "select/10_Long_Distance_Call_Muddy_Waters.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Long Distance Drunk",
+      "artist": "Modest Mouse",
+      "has_synced": false,
+      "path": "select/11_Long_Distance_Drunk_Modest_Mouse.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Long Distance Drunk",
+      "artist": "Modest Mouse",
+      "has_synced": true,
+      "path": "select/12_Long_Distance_Drunk_Modest_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Distance (feat. Ty Dolla $ign)",
+      "artist": "Mariah Carey feat. Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/13_The_Distance_(feat._Ty_Dolla_$ign)_Mariah_Carey_feat._Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Distance (featuring Ty Dolla $ing)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/14_The_Distance_(featuring_Ty_Dolla_$ing)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Distance",
+      "artist": "Helios",
+      "has_synced": false,
+      "path": "select/15_Distance_Helios.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "No Distance Left to Run",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/16_No_Distance_Left_to_Run_Blur.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Distance",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/17_The_Distance_Travis.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Train In the Distance",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/18_Train_In_the_Distance_Paul_Simon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "distance",
+      "artist": "FARMHOUSE",
+      "has_synced": false,
+      "path": "select/pl_01_distance_FARMHOUSE.txt"
+    }
+  ]
+}
